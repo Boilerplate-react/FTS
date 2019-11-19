@@ -1,0 +1,302 @@
+header {
+ 
+
+}
+
+
+
+/* @media (max-width: 767px) {
+    text-align: center;
+  } */
+
+.header1{
+    display: flex;
+    background: #FFFFFF;
+    height: 100.96px;
+    align-items: center;
+}
+.Polygon_one{
+
+
+background: #F05327;
+transform: rotate(-44.45deg);
+margin: 3px;
+
+}
+
+.Logo{
+margin-left: 175.7px;
+
+}
+
+.SelectSport{
+    display: flex;
+align-items: center;
+justify-content: space-evenly;
+margin: 3px;
+
+
+
+background: #EF9322;
+}
+
+.SelectSport text{
+ font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+.SelectCity{
+    display: flex;
+align-items: center;
+justify-content: space-evenly;
+margin: 3px;
+
+
+
+background: #EF9322;
+}
+
+.SelectCity text{
+ font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+.header2{
+width: 100%;
+justify-content: center;
+    display: flex;
+    flex-direction: row;
+    background: #19191B;
+
+  
+}
+
+
+.Polygon_two{
+    width: 86px;
+    height: 66px;
+    left: -9.5px;
+    top: 149.12px;
+    
+    background: #EF9322;
+    transform: rotate(-44.92deg);
+}
+
+.offer{
+    padding-left: 12%;
+}
+
+
+.PatnerWithus{
+
+ display: flex;
+    height: 45px;
+ border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    transform: skew(-20deg, 0deg);
+    margin-left: 5% ;
+    margin-right: 5% ;
+    align-items: center;
+
+}
+
+
+
+.PatnerWithus text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    transform: skew(18deg, 0deg);
+    color: #FFFFFF;    
+
+}
+
+.Clubs{
+    display: flex;
+    align-items: center;
+justify-content: space-evenly;
+    display: flex;
+    border: 3px solid #EF9322;
+    box-sizing: border-box;
+    border-radius: 28px;
+
+}
+.Clubs text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #EF9322;
+
+
+}
+
+
+.header2left{
+    display: flex;
+    width: 100%;
+    /* background: rgb(13, 92, 138); */
+    align-items: center;
+
+}
+
+
+
+.header2rigth{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+/* background: cornsilk; */
+align-items: center;
+
+
+}
+.Login{
+    height: 5px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 1px solid #EF9322;
+box-sizing: border-box;
+margin-left: 5% ;
+margin-right: 1% ;
+}
+
+
+.Login text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #EF9322;
+}
+.Signup{
+
+    height: 5px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #EF9322;
+    border: 1px solid #EF9322;
+    box-sizing: border-box;
+    margin-left: 1% ;
+margin-right: 5% ;
+}
+
+.Signup text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #19191B;
+}
+
+@media (max-width: 1260px)
+{
+
+  
+.Logo {
+    width: 80%;
+    margin: 0 auto;
+    padding: 15px;
+    font-size: 80%;
+}
+
+.SelectSport{
+    width: 40%;
+    padding: 0px;
+    font-size: 80%;
+}
+
+.SelectCity{
+    width: 40%;
+    padding: px;
+    font-size: 80%;
+}
+
+.offer{
+    height: 30px;
+}
+
+
+.PatnerWithus{
+    height: 30px;
+
+}
+.PatnerWithus text{
+ 
+    font-size: 10px;
+    line-height: 20px;
+   width: max-content;
+       
+
+}
+
+.Login {
+    justify-content: center;
+    padding: 10px;
+   width: max-content;
+}
+.Login text{
+    font-size: 10px;
+    line-height: 20px;
+   width: max-content;
+}
+
+.Signup {
+    justify-content: center;
+    padding: 10px;
+   width: max-content;
+}
+.Signup text{
+    font-size: 10px;
+    line-height: 20px;
+   width: max-content;
+}
+
+.Clubs{
+    display: flex;
+    align-items: center;
+justify-content: space-evenly;
+    display: flex;
+    border: 3px solid #EF9322;
+    box-sizing: border-box;
+    border-radius: 28px;
+}
+.Clubs text{
+    font-size: 10px;
+    line-height: 20px;
+   width: max-content;
+}
+}

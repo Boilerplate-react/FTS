@@ -1,0 +1,42 @@
+footer{
+    background: #19191B;
+}
+text{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
+
+.footerCointainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.logoDescription{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+
+}
+.logotext{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFFFF;
+    width: 30%;
+}
+.links{
+    display: flex;
+    padding: 30px;
+
+    flex-direction: column;
+}

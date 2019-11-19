@@ -1,0 +1,32 @@
+.App {
+  
+  /* width: 1439.99px;
+  height: 2919.02px;
+  left: 1439.99px;
+  top: 179.17px; */
+display: flex;
+flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+
+/* .App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+} */
